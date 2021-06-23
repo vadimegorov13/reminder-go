@@ -1,0 +1,1 @@
+// HTTP client that communicates with notifier service
